@@ -1,5 +1,3 @@
-using GameTOP.Interface;
-
 namespace GameTOP
 {
     public class JogoFoda
