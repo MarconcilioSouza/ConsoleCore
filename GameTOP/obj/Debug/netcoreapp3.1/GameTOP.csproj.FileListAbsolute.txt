@@ -1,0 +1,16 @@
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.csprojAssemblyReference.cache
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.AssemblyInfoInputs.cache
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.AssemblyInfo.cs
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.exe
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.deps.json
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.runtimeconfig.json
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.runtimeconfig.dev.json
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.dll
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.pdb
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.Interface.dll
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.lib.dll
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.Interface.pdb
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.lib.pdb
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.csproj.CopyComplete
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.dll
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.pdb

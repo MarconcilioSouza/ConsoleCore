@@ -1,0 +1,8 @@
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP.Interface\bin\Debug\netstandard2.0\GameTOP.Interface.deps.json
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP.Interface\bin\Debug\netstandard2.0\GameTOP.Interface.dll
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP.Interface\bin\Debug\netstandard2.0\GameTOP.Interface.pdb
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.csprojAssemblyReference.cache
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.AssemblyInfoInputs.cache
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.AssemblyInfo.cs
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.dll
+C:\Users\Marco-Work\source\repos\CONSOLECORE\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.pdb
